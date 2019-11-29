@@ -13,4 +13,4 @@ Evolution is a game based on the evolution of a cell from just a cell body to a 
 
 ### Credits
 * Jacob Dexter - Games Programmer - https://twitter.com/JacobDexter_Dev
-* Joe Gallagher - Games Designer - https://twitter.com/Miphia_
+* Joe Gallagher - Games Designer - [Miphia](https://twitter.com/Miphia_)
